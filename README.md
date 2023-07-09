@@ -51,12 +51,6 @@ python generateSpectrograms.py
 ```
 python train.py --dataset data/aug_GADF_280_dataset/ --epochs 500 --lr 0.0001 --file2read 0 --es 1 --batch_size 16 --output output_id --experiment_tag output_tag
 ```
-2 - Commands
-* train
-```
-python train.py --DS_NAME 'NN_human_mouse_eyes' --epochs 1 --batch_size 128 --lr 1e-05 --es 1 --wanted 'p' --file2read 100 --backbon 'mine' --weights '[1,0,0,0]' --output output_id
-```
-
 # Results
 
 
