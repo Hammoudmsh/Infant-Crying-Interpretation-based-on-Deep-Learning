@@ -1,4 +1,4 @@
-# Application of deep learning methods for the investigation of the neurological disease diagnosed through NIR eye video
+# Infant crying interpretation based on deep learning
 
 ## Table of contents
 * [Introduction](#introduction)
